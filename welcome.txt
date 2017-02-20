@@ -1,1 +1,3 @@
 Hello $echo “Hello.”> welcome.txt
+
+这个只是一个测试！！！helloworld！！！
