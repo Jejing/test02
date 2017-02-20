@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+    int choce;
+    cout << "请输入一个整数：";
+    cin >> choce;
+    switch(choce)
+    {
+    case 1:cout << "1";
+        break;
+    case 2:cout << "2";
+        break;
+    case 3:cout << "3";
+        break;
+    case 4:cout << "4";
+        break;
+    default:cout << "你输入错误！";
+    }
+    cout << "程序结束！" << endl;
+    return 0;
+}
